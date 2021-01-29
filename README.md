@@ -1,4 +1,4 @@
-* 文章出处: 微信公众号关注安全技术
+* 项目出处: https://github.com/xiaoy-sec/Pentest_Note
 * 此项目用于速查
 
 # Attack_Notes
